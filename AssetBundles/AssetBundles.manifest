@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 901853625
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets/_bundle/cockpit_prefab
+      Dependencies: {}
