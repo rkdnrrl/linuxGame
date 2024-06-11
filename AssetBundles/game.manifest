@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 385931598
+CRC: 4075115269
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 96c6b7cd2eecb39086c85fdbe758e932
+    Hash: a4686c702e9c03bc5125e5bff4ffd711
   TypeTreeHash:
     serializedVersion: 2
-    Hash: de49e54c7d82d15feea2c5783d1c6db8
+    Hash: b9e1d8fa7bcaeca46371f3c022dc293d
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 96c6b7cd2eecb39086c85fdbe758e932
+    Hash: a4686c702e9c03bc5125e5bff4ffd711
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -40,6 +40,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 95
   Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
 - Class: 108
   Script: {instanceID: 0}
 - Class: 114
@@ -47,13 +49,33 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 60f3b30c03e6ba64d9a27dc9dba8f28d, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 70dbabacc1e2947b198369ec7f9fa94c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a02c0a79f5c6e43bcadba90c984f9560, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0fc6f5187a81dc47999eefade6f0935, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 21bf7f712d84d26478ebe6a299f21738, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 71ecc5777e25c19498ae4171dc7d1dcf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c16baa07ea044459291e742163a409ec, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 221518ef91623a7438a71fef23660601, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 72ece51f2901e7445ab60da3685d6b5f, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: a200b19ca1a9685429ed7e043c28e904, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d21dcc2386d650c4597f3633c75a1f98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 030f85c3f73729f4f976f66ffb23b875, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8396860ea227c439396f2861d3846740, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: c330c2a1ade111747be0e0c49b82ba68, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24b8117377e18468680baa111a364dea, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 5485954d14dfb9a4c8ead8edb0ded5b1, type: 3}
 - Class: 114
@@ -63,15 +85,23 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: c4255ac75576447fba24a12ad183987b, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 15e0374501f39d54eb30235764636e0e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15c38f6fa1940124db1ab7f6fe7268d1, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 45e653bab7fb20e499bda25e1b646fea, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 558a8e2b6826cf840aae193990ba9f2e, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d5f46d4e505b74bb29521cf5ce090873, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: e52de21a22b6dd44c9cc19f810c65059, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 36d1163fa822e8b418a0a603ec078d5c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 66f335fb1ffd8684294ad653bf1c7564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d6fa2d92fc1b3f34da284357edf89c3b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
 - Class: 114
@@ -83,18 +113,42 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 18899fac298224edd88bfedf71a89691, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48853ae485fa386428341ac1ea122570, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 682257e84cca6e24a94c39ff38cd2a11, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 899c54efeace73346a0a16faa3afe726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 99a9c787e5d1bbf48a389834c4a9641c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a16748d9461eae46a725db9776d5390, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3a5c01a226ce545a48cd732a949041cd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dab5c7d4c32e743048dfca98e2d5914f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 0b2db86121404754db890f4c8dfe81b2, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1b6e8c43aaa108e449f1e8ffd5e8f941, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 9be2dec593c37470590fcba37a895a52, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: bce80088733fe3946b425e55b668ff29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fde0d25a170598d46a0b9dc16b4527a5, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 1e8b78ac948f05a46a6d8339a503172b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ed3f8f8e9e8842e3a228a1b9678c91a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfda56da833e2384a9677cd3c976a436, type: 3}
 - Class: 115
+  Script: {instanceID: 0}
+- Class: 120
   Script: {instanceID: 0}
 - Class: 136
   Script: {instanceID: 0}
@@ -102,7 +156,15 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 320
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Boids/Ship
+- AssemblyName: Assembly-CSharp
+  ClassName: Boids/Team
 - AssemblyName: Cinemachine
   ClassName: Cinemachine.CinemachineBlendDefinition
 - AssemblyName: Cinemachine
@@ -110,9 +172,19 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Cinemachine
   ClassName: Cinemachine.CinemachineBrain/VcamActivatedEvent
 - AssemblyName: Cinemachine
+  ClassName: Cinemachine.CinemachinePathBase/Appearance
+- AssemblyName: Cinemachine
+  ClassName: Cinemachine.CinemachineSmoothPath/Waypoint
+- AssemblyName: Cinemachine
   ClassName: Cinemachine.CinemachineVirtualCameraBase/TransitionParams
 - AssemblyName: Cinemachine
   ClassName: Cinemachine.LensSettings
+- AssemblyName: Unity.Mathematics
+  ClassName: Unity.Mathematics.float3
+- AssemblyName: Unity.Mathematics
+  ClassName: Unity.Mathematics.float4
+- AssemblyName: Unity.Mathematics
+  ClassName: Unity.Mathematics.quaternion
 - AssemblyName: Unity.RenderPipelines.Core.Runtime
   ClassName: UnityEngine.Rendering.BoolParameter
 - AssemblyName: Unity.RenderPipelines.Core.Runtime
@@ -141,9 +213,42 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.Rendering.Universal.TemporalAA/Settings
 - AssemblyName: Unity.RenderPipelines.Universal.Runtime
   ClassName: UnityEngine.Rendering.Universal.TonemappingModeParameter
+- AssemblyName: Unity.Splines
+  ClassName: UnityEngine.Splines.BezierKnot
+- AssemblyName: Unity.Splines
+  ClassName: UnityEngine.Splines.KnotLinkCollection
+- AssemblyName: Unity.Splines
+  ClassName: UnityEngine.Splines.Spline
+- AssemblyName: Unity.Splines
+  ClassName: UnityEngine.Splines.Spline/MetaData
+- AssemblyName: Unity.Splines
+  ClassName: UnityEngine.Splines.SplineDataDictionary`1[System.Int32]
+- AssemblyName: Unity.Splines
+  ClassName: UnityEngine.Splines.SplineDataDictionary`1[System.Single]
+- AssemblyName: Unity.Splines
+  ClassName: UnityEngine.Splines.SplineDataDictionary`1[Unity.Mathematics.float4]
+- AssemblyName: Unity.Splines
+  ClassName: UnityEngine.Splines.SplineDataDictionary`1[UnityEngine.Object]
+- AssemblyName: Unity.Timeline
+  ClassName: UnityEngine.Timeline.MarkerList
+- AssemblyName: Unity.Timeline
+  ClassName: UnityEngine.Timeline.SignalReceiver/EventKeyValue
+- AssemblyName: Unity.Timeline
+  ClassName: UnityEngine.Timeline.TimelineAsset/EditorSettings
+- AssemblyName: Unity.Timeline
+  ClassName: UnityEngine.Timeline.TimelineClip
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.ExposedReference`1[UnityEngine.GameObject]
 Assets:
 - Assets/_bundle/Cube.prefab
 - Assets/_bundle/Cockpit.prefab
+- Assets/_bundle/Root.prefab
 Dependencies: []
