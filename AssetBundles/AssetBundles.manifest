@@ -1,14 +1,7 @@
 ManifestFileVersion: 0
-CRC: 2484006681
+CRC: 1060542814
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: assets/_bundle/materials/red.mat
-      Dependencies: {}
-    Info_1:
-      Name: assets/_bundle/prefabs/cube.prefab
-      Dependencies:
-        Dependency_0: assets/_bundle/materials/red.mat
-    Info_2:
-      Name: assets/_bundle/prefabs/root.prefab
+      Name: game
       Dependencies: {}
