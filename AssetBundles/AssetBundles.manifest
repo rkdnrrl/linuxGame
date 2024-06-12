@@ -1,7 +1,7 @@
 ManifestFileVersion: 0
-CRC: 901853625
+CRC: 2532942965
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: assets/_bundle/cockpit_prefab
+      Name: vs_boxer
       Dependencies: {}

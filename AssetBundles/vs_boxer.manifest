@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2652970692
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 48a8420b127690ded55cf5593871b8bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 78d17bc4eb0773a2e72f40534bcab120
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 48a8420b127690ded55cf5593871b8bc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24b8117377e18468680baa111a364dea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8396860ea227c439396f2861d3846740, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_bundle/VS_Boxer/Prefabs/CapitalShipTurretBase_Prefab.prefab
+- Assets/_bundle/VS_Boxer/Prefabs/Invader_Prefab.prefab
+Dependencies: []
